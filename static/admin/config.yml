@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: nViNova/perser
+  repo: nViNova/parser
   branch: main # Branch to update (optional; defaults to master)
   squash_merges: true
   base_url: https://theupparser.pages.dev

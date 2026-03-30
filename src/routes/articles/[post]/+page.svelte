@@ -109,7 +109,7 @@
 		{/if} -->
 
 		<script src="https://giscus.app/client.js"
-        data-repo="nViNova/perser"
+        data-repo="nViNova/parser"
         data-repo-id="R_kgDONG26Yg"
         data-category="Site"
         data-category-id="DIC_kwDONG26Ys4Coeet"
