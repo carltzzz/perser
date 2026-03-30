@@ -14,7 +14,7 @@
 			{#if outer_index < 2}
 				{#if outer_index == 0}
 					<li class="initial-post">
-						<div class="post-image">
+						<div class="">
 							<article>
 								<a href="/articles/{post.slug}">
 									<img
